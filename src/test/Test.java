@@ -4,7 +4,7 @@ public class Test {
 	
 	public String test2( ) {
 		
-		return "Hello";
+		return "Hello" + " Ciao da branch 2";
 	}
 
 }
