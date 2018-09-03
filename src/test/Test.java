@@ -2,7 +2,8 @@ package test;
 
 public class Test {
 	
-	public String test( ) {
+	public String test2( ) {
+		
 		return "Hello";
 	}
 
